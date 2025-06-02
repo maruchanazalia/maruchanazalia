@@ -5,7 +5,7 @@
   
   ### 🎮 Backend Developer | 📸 Photographer | 🇲🇽 From Mexico
   
-  *"Mathematical!" - BMO*
+  *"Be better!" - BMO*
 </div>
 
 ---
@@ -73,12 +73,12 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_GITHUB_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maruchanazalia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruchanazalia&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maruchanazalia&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -105,7 +105,7 @@ me.say_hi()
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/X5W6XvN.gif" alt="BMO waving" width="100"/>
+  <img src="https://static.wikia.nocookie.net/adventuretimespain/images/0/0e/Tumblr_m9efd3PR581r74ifno1_500.gif/revision/latest?cb=20120915091308&path-prefix=es" alt="BMO waving" width="100"/>
   
   ### ✨ "Come along with me, and the butterflies and bees!" ✨
   
