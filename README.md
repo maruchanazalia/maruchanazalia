@@ -1,7 +1,7 @@
 # ¡Hola! Soy Iram Azalia 👋✨
 
 <div align="center">
-  <img src="https://i.imgur.com/oNH6H1n.gif" alt="BMO dancing" width="200"/>
+  <img src="https://i.gifer.com/origin/e2/e2917a322c5c7247c308d53725f0189f_w200.gif" alt="BMO dancing" width="200"/>
   
   ### 🎮 Backend Developer | 📸 Photographer | 🇲🇽 From Mexico
   
@@ -13,7 +13,7 @@
 ## 🎵 What I'm Currently Jamming To
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_SPOTIFY_USER_ID&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=22zueuz42qmi6awlymf3rin4i&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
 </div>
 
 ---
@@ -26,14 +26,14 @@ class IramAzalia:
         self.name = "Iram Azalia Ruiz Aparicio"
         self.role = "Backend Developer"
         self.location = "Mexico 🇲🇽"
-        self.currently_learning = ["Python 🐍", "Go 🐹"]
+        self.currently_learning = ["Python", "Dart"]
         self.hobbies = ["Photography 📸", "Coding 💻", "Adventure Time 🗡️"]
         
     def get_portfolio(self):
         return "https://azalys.netlify.app/"
         
     def say_hi(self):
-        print("¡Algebraic! Let's build something awesome together! 🚀")
+        print("¡Let's build something awesome together! 🚀")
 
 me = IramAzalia()
 me.say_hi()
