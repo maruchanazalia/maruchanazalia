@@ -8,15 +8,7 @@
   *"Be better!" - BMO*
 </div>
 
----
 
-## 🎵 What I'm Currently Jamming To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=22zueuz42qmi6awlymf3rin4i&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
-</div>
-
----
 
 ## 🌟 About Me
 
